@@ -1,2 +1,2 @@
 # ShaneLynn.github.io
-Portfolio Site
+This is the code storage for the static portfolio page
